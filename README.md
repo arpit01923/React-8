@@ -16,10 +16,6 @@
 
 <br>
 
-> **Output:** User will get to know fruit meaning if available in database after clicking on fruit display section, if user enters an fruit which is not available then user is informed with message `we don't have this in our database` else with meaning of fruit. Output is text message for the user.
-
-<br>
-
 > **Processing:**
 
 - User has to click on fruit or enter an fruit to know fruit meaning.
@@ -28,4 +24,8 @@
 
 <br>
 
-> **Link:** [Fruit Interpreter](codesandbox.io/s/github/arpit-dotcom/react-8)
+> **Output:** User will get to know fruit meaning if available in database after clicking on fruit display section, if user enters an fruit which is not available then user is informed with message `we don't have this in our database` else with meaning of fruit. Output is text message for the user.
+
+<br>
+
+> **Link:** [Fruit Interpreter](https://codesandbox.io/s/github/Arpit-dotcom/React-8)
