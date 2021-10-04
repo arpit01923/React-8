@@ -9,7 +9,9 @@ const emojiDictionary = {
   "🍓": "Strawberry",
   "🍒": "Cherries",
   "🥭": "Mango",
-  "🥝": "Kiwi"
+  "🥝": "Kiwi",
+  "🍎": "Red Apple",
+  "🍑": "Peach"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
